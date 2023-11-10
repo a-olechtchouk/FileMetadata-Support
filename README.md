@@ -16,4 +16,4 @@ Once file metadata is loaded, you can:
 Click the "gear" button to view app settings. In settings, you can change the output language, hide/show duplicate metadata tags, and more.
 
 # Contact
-If you have any questions or concerns, please do not hesitate [contact us.](mailto:FileMetadataSupport@proton.me)
+If you have any questions or concerns, please do not hesitate to [contact us.](mailto:FileMetadataSupport@proton.me)
