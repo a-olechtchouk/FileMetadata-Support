@@ -13,7 +13,7 @@ Once file metadata is loaded, you can:
 - Increase or decrease window size.
 
 # Settings
-Click the "gear" button to view app settings. In settings, you can change the output language, hide/show duplicate metadata tags, and more.
+Click the "gear" button to view app settings. In settings, you can change the output language and hide/show duplicate metadata tags.
 
 # Contact
 If you have any questions or concerns, please do not hesitate to [contact us.](mailto:andrew.o.dev@proton.me)
